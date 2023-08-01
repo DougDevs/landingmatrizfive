@@ -1,0 +1,106 @@
+@font-face {
+    font-family: roboto;
+    src: url('../font/Roboto-Regular.ttf');
+}
+
+.about-container{
+    width: 90%;
+    margin: 7rem auto;
+}
+
+.about-box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    margin: 2rem auto;
+}
+
+.about-describe-box{
+    width: 60%;
+}
+
+.img-about-box{
+    width: 40%;
+}
+
+.img-about{
+    width: 300px;
+    box-shadow: 0px 0px 11px #000;
+}
+
+.about-describe{
+    padding: 0 1rem;
+    text-align: justify;
+}
+
+.about-describe p{
+    line-height: 2rem;
+    font-family: roboto;
+    font-size: 16px;
+}
+
+@media screen and (max-width: 500px) {
+    .about-container{
+        width: 100%;
+        margin: 3rem 0;
+    }
+
+    .about-box{
+        display: block;
+        width: 90%;
+    }
+
+    .about-describe-box{
+        width: 100%;
+    }
+
+    .img-about-box, .about-describe-box{
+        margin: auto;
+    }
+
+    .img-about-box{
+        width: 90%;
+    }
+
+    .img-about{
+        width: 90%;
+        margin-top: 2rem;
+    }
+}
+
+
+@media (min-width: 501px) and (max-width: 750px) {
+    .about-container{
+        width: 100%;
+    }
+
+    .about-box{
+        display: block;
+        width: 90%;
+    }
+
+    .about-describe-box{
+        width: 100%;
+    }
+
+    .img-about-box, .about-describe-box{
+        margin: auto;
+    }
+
+    .img-about{
+        width: 100%;
+        margin-top: 2rem;
+    }
+}
+
+
+@media (min-width: 751px) and (max-width: 1200px) {
+    .about-container{
+        width: 100%;
+    }
+
+    .about-box{
+        width: 90%;
+    }
+}

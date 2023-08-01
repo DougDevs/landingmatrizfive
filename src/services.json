@@ -1,0 +1,22 @@
+{
+    "services":
+    [
+        {
+            "lavagemTecnica": "A lavagem técnica consiste em um processo minucioso de limpeza de veículos realizado pela Garagem224, utilizando equipamentos e produtos de alta qualidade. Seu principal objetivo é realizar a higienização interna e externa do automóvel, removendo toda a sujeira de difícil acesso. Além disso, a atenção especial também é direcionada aos vidros e pneus, proporcionando um resultado final de limpeza e brilho excepcionais. Para a execução da lavagem detalhada, empregamos produtos específicos que são capazes de remover a sujeira sem causar danos à pintura do veículo, garantindo um acabamento impecável."
+        },
+
+        {
+            "limpezaBancos": "A manutenção adequada dos bancos automotivos é tão essencial quanto a limpeza externa do carro para preservar sua condição. O acúmulo de poeira, manchas, restos de comida e sujeira pode afetar negativamente a aparência dos estofados e pisos do veículo.Com o tempo e o uso frequente, o interior do carro se torna um depósito de sujeira, incluindo substâncias prejudiciais à saúde dos ocupantes. Em nossos serviços de limpeza interna, além de nos preocuparmos com a estética visual, também priorizamos a higiene interna, garantindo uma experiência ainda melhor ao dirigir o veículo."
+        },
+
+        {
+            "higienizaçãoAutomotiva": "A Garagem224 oferece um serviço de higienização automotiva minuciosa, garantindo uma limpeza interna completa. Esse processo abrange a aspiração e uma limpeza profunda, alcançando até mesmo os cantos mais difíceis, removendo impurezas, sujeiras e manchas do interior do seu veículo. Em seguida, realizamos a descontaminação da parte interna do carro, utilizando os melhores produtos e equipamentos especializados aprovados pela Anvisa, eliminando fungos, ácaros e bactérias prejudiciais. Todos os tecidos ou revestimentos de couro, vidros, plásticos e outras superfícies serão cuidadosamente limpos e tratados."
+        },
+
+        {
+            "limpezaMotor": "A Garagem224 oferece um serviço especializado de limpeza de motores, garantindo um cuidado minucioso e uma performance otimizada para o seu veículo. Nosso processo abrange uma limpeza profunda e completa do motor, removendo sujeiras, resíduos e impurezas acumuladas ao longo do tempo. Nossa equipe utiliza os melhores produtos e equipamentos especializados, aprovados pela Anvisa, para garantir uma descontaminação eficaz e segura. Eliminamos depósitos de graxa, óleo e outros detritos prejudiciais que podem afetar o desempenho do seu motor."
+        }
+
+
+    ]
+}
